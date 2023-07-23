@@ -1,0 +1,5 @@
+train: /content/train
+val: /content/valid
+nc: 10
+names: [Hardhat, Mask, NO-Hardhat, NO-Mask, NO-Safety Vest, Person, Safety Cone,
+    Safety Vest, machinery, vehicle]
